@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native.**
 
-- 👨‍💻 All of my projects are available at [https://ishukumarpathak.github.io/portfolio/](https://ishukumarpathak.github.io/portfolio/)
+- 👨‍💻 Here is my portfolio [https://ishukumarpathak.github.io/portfolio/](https://ishukumarpathak.github.io/portfolio/)
 
 - 💬 Ask me about **Web Development and other development Skills.**
 
