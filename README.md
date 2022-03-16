@@ -27,7 +27,7 @@
 <a href="https://instagram.com/_ishu_pathak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ishu_pathak_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ishu pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishu pathak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishu pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishu pathak" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ishu pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishu pathak" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
