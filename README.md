@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Developer.</h3>
 <img width="'600" alt="coding greek" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishukumarpathak&label=Profile%20views&color=0e75b6&style=flat" alt="ishukumarpathak" /> </p>
+<p align="left"> <img src=" " alt="" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ishkumarpatha2" target="blank"><img src="https://img.shields.io/twitter/follow/ishkumarpatha2?logo=twitter&style=for-the-badge" alt="ishkumarpatha2" /></a> </p>
+
 
 - 🔭 I’m currently working on **Python Cv projects.**
 
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Web Development and other development Skills.**
 
-- 📫 How to reach me **pishu1766@gmail.com**
+- 📫  reach me through  **pishu1766@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN](https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN)
+- 📄 Know about my resume [https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN](https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
