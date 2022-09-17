@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishu Pathak</h1>
-<h3 align="center">A passionate Developer.</h3>
+<h3 align="center">A  Developer.</h3>
 <img width="'600" alt="coding greek" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 
 <p align="left"> <img src=" " alt="" /> </p>
