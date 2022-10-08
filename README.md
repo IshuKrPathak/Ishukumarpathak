@@ -15,6 +15,8 @@
 
 - 📄 Know about my resume [https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN](https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN)
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/ishukumarpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ishukumarpathak" height="30" width="40" /></a>
