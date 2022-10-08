@@ -3,9 +3,6 @@
 <img width="'600" alt="coding greek" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 
 <p align="left"> <img src=" " alt="" /> </p>
-
-
-
 - 🔭 I’m currently working on **Python Cv projects.**
 
 - 🌱 I’m currently learning **React Native.**
