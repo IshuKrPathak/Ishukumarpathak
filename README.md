@@ -16,7 +16,7 @@
 - 📄 Know about my resume [https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN](https://1drv.ms/w/s!AquofC-8R7E-hXV35YaQ40Np2TAn?e=xwMaSN)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/ishukumarpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ishukumarpathak" height="30" width="40" /></a>
 <a href="https://twitter.com/ishkumarpatha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishkumarpatha2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishu kumar pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishu kumar pathak" height="30" width="40" /></a>
