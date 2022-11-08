@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishu Pathak</h1>
 <h3 align="center">A  Passionate Frontened Developer.</h3>
-<img width="'600" alt="coding " src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6
 
-<br>
-<img width="'200" alt="coding " src="http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif"
-     <br>
+<img width="'600" alt="coding " src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
+
+<img width="'200" alt="coding " src="http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif">
+ <br>
 
 <p align="left"> <img src=" " alt="" /> </p>
 - 🔭 I’m currently working on **React projects.**
