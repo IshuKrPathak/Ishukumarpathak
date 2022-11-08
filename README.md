@@ -2,7 +2,7 @@
 <h3 align="center">A  Passionate Frontened Developer.</h3>
 
 <br>
-<img width  = ""alt = "" src="https://holopin.io/@ishupathak">
+<img width  = ""alt = "" src="[![@ishupathak's Holopin board](https://holopin.me/ishupathak)](https://holopin.io/@ishupathak)">
 <img width="600" alt="coding " src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
