@@ -13,7 +13,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishukumarpathak&" alt="ishukumarpathak" /></p> -->
 
 # 💫 About Me:
-🔭 I’m currently working on OpinHacks -<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <br>👯 I’m looking to collaborate on Hacakthons 🧑🏻‍💻 and Projects 🏢<br>🤝 I’m looking for help with my doubts<br>🌱 I’m currently learning  Advanvced Concepts of Javascript.<br>💬 Ask me about Web and its related Technologies.<br>⚡ Fun fact - I am a writer who writes small shaiyaries .
+🔭 I’m currently working on OpinHacks -<a href="https://www.OpinHacks.co /" target="_blank" rel="noreferrer"> </a>
+<br>I’m looking to collaborate on Hacakthons 🧑🏻‍💻 and Projects 🏢<br>🤝 I’m looking for help with my doubts<br>🌱 I’m currently learning  Advanvced Concepts of Javascript.<br>💬 Ask me about Web and its related Technologies.<br>⚡ Fun fact - I am a writer who writes small shaiyaries .
 
 
 <!-- ## 🌐 Socials:
