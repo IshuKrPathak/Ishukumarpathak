@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working at OpInHacks - www.opinhacks.co<br>
-🧑‍🤝‍🧑 I’m looking to collaborate on Hacakthons 🧑🏻‍💻 and Projects 🏢<br>🤝 I’m looking for help with my doubts<br>🌱 I’m currently learning  Advanvced Concepts of Javascript.<br>💬 Ask me about Web and its related Technologies.<br>⚡ Fun fact - I am a writer who writes small shaiyaries .
+🧑‍🤝‍🧑 I’m looking to collaborate on Hackathons 🧑🏻‍💻 and Projects 🏢<br>🤝 I’m looking for help with my doubts<br>🌱 I’m currently learning Advanced Concepts of Javascript.<br>💬 Ask me about Web and its related Technologies.<br>⚡
 
 
 <!-- ## 🌐 Socials:
